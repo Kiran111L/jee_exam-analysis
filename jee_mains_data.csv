@@ -1,0 +1,133 @@
+Table 1,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Year,Subject,Topic_Code,Topic,Subtopic_Code,Subtopic,Difficulty,Question_Type,Count,Subtopic_Combo,Mixed_Topic_Probability,Question_Tone,Sample_Problem_Style
+,2000,Maths,10,Calculus,1,Differentiation,Medium,Numeric,2,Algebra,0.25,Formula-based,Shortest distance line-point
+,2000,Maths,30,Coordinate Geometry,2,Circles,Hard,MCQ,2,Calculus + Coordinate Geometry,0.6,Conceptual,Tangent from external point
+,2000,Maths,20,Algebra,3,Complex Numbers,Easy,Numeric,1,Trigonometry,0.1,Calculation-heavy,Locus of a point
+,2000,Physics,70,Mechanics,4,Kinematics,Medium,MCQ,3,Pure,0.85,Graphical Reasoning,Velocity-time graph
+,2000,Physics,90,Waves & Thermodynamics,5,Calorimetry,Easy,Numeric,2,Thermodynamics + Modern Physics,0.3,Conceptual,Heat transfer in system
+,2001,Maths,20,Algebra,6,Permutations and Combinations,Hard,MCQ,3,Probability + Algebra,0.7,Conceptual,Arrangement of letters
+,2001,Maths,40,Trigonometry,7,Inverse Trigonometric Functions,Easy,Numeric,1,Calculus,0.2,Formula-based,Derivative of inverse functions
+,2001,Maths,10,Calculus,8,Definite Integrals,Medium,Numeric,2,Function,0.5,Calculation-heavy,Area under curve
+,2001,Physics,80,Electrodynamics,9,Current Electricity,Hard,MCQ,2,Mechanics + Electrodynamics,0.65,Calculation-heavy,Power in electric circuit
+,2001,Physics,110,Optics,10,Ray Optics,Medium,Numeric,3,Pure,0.9,Tricky,Refraction through prism
+,2002,Maths,30,Coordinate Geometry,11,Parabola,Medium,MCQ,3,Algebra,0.3,Conceptual,Equation of tangent
+,2002,Maths,10,Calculus,12,Differential Equations,Hard,Numeric,1,Pure,0.9,Calculation-heavy,Order and degree of DE
+,2002,Maths,50,Vector Algebra,13,Cross Product,Easy,MCQ,2,Coordinate Geometry + Vector Algebra,0.4,Formula-based,Area of a triangle
+,2002,Physics,70,Mechanics,14,Rotational Dynamics,Hard,Numeric,3,Mechanics,0.9,Calculation-heavy,Moment of inertia
+,2002,Physics,80,Electrodynamics,15,Magnetic Effects of Current,Medium,MCQ,2,Pure,0.8,Conceptual,Force on a wire
+,2003,Maths,20,Algebra,16,Binomial Theorem,Easy,Numeric,2,Algebra,0.75,Formula-based,Term independent of x
+,2003,Maths,10,Calculus,17,Area Under Curve,Medium,MCQ,3,Coordinate Geometry + Calculus,0.5,Graphical Reasoning,Area bounded by curves
+,2003,Maths,50,Vector Algebra,18,Dot Product,Hard,Numeric,1,Pure,0.8,Conceptual,Projection of a vector
+,2003,Physics,70,Mechanics,19,"Work, Energy, Power",Medium,Numeric,2,Mechanics,0.9,Calculation-heavy,Work done by variable force
+,2003,Physics,100,Modern Physics,20,Photoelectric Effect,Hard,MCQ,3,Pure,0.85,Conceptual,Cutoff voltage
+,2004,Maths,20,Algebra,21,Sequences and Series,Medium,MCQ,3,Calculus,0.4,Conceptual,Sum of infinite terms
+,2004,Maths,30,Coordinate Geometry,22,Ellipse,Hard,Numeric,2,Calculus + Coordinate Geometry,0.6,Calculation-heavy,Equation of tangent
+,2004,Maths,10,Calculus,23,Indefinite Integrals,Easy,Numeric,2,Pure,0.8,Formula-based,Integration by parts
+,2004,Physics,80,Electrodynamics,24,Capacitors,Medium,MCQ,2,Electrodynamics,0.7,Calculation-heavy,Energy stored in capacitor
+,2004,Physics,70,Mechanics,25,Gravitation,Hard,Numeric,3,Mechanics,0.9,Tricky,Orbital velocity
+,2005,Maths,20,Algebra,26,Quadratic Equations,Easy,MCQ,3,Algebra + Calculus,0.5,Formula-based,Roots of a quadratic
+,2005,Maths,40,Trigonometry,27,Trigonometric Equations,Medium,Numeric,2,Algebra,0.3,Calculation-heavy,Solutions in a given interval
+,2005,Maths,10,Calculus,28,Functions,Hard,MCQ,2,Calculus,0.9,Conceptual,Domain and range
+,2005,Physics,70,Mechanics,29,Circular Motion,Medium,Numeric,2,Pure,0.8,Conceptual,Centripetal force
+,2005,Physics,90,Waves & Thermodynamics,30,Kinetic Theory,Hard,MCQ,3,Thermodynamics,0.75,Calculation-heavy,RMS velocity
+,2006,Maths,30,Coordinate Geometry,31,Hyperbola,Medium,Numeric,2,Pure,0.8,Conceptual,Equation of a normal
+,2006,Maths,10,Calculus,32,Limits,Hard,MCQ,3,Algebra,0.4,Calculation-heavy,L'Hopital's Rule
+,2006,Maths,50,Vector Algebra,33,Triple Product,Easy,MCQ,2,Coordinate Geometry + Vector Algebra,0.5,Formula-based,Volume of parallelepiped
+,2006,Physics,80,Electrodynamics,34,Magnetic Effects of Current,Medium,Numeric,2,Pure,0.8,Calculation-heavy,Magnetic field due to a wire
+,2006,Physics,90,Waves & Thermodynamics,35,Thermodynamics,Hard,MCQ,3,Mechanics,0.65,Conceptual,Efficiency of a heat engine
+,2007,Maths,20,Algebra,36,Matrices,Easy,MCQ,3,Pure,0.8,Formula-based,Determinant of a matrix
+,2007,Maths,10,Calculus,37,Differential Equations,Medium,Numeric,2,Calculus,0.9,Calculation-heavy,Solution of linear DE
+,2007,Maths,60,Probability,38,Bayes' Theorem,Hard,MCQ,1,Algebra + Probability,0.6,Tricky,Conditional probability
+,2007,Physics,70,Mechanics,39,Rotational Dynamics,Medium,Numeric,3,Mechanics,0.9,Conceptual,Rolling motion
+,2007,Physics,100,Modern Physics,40,Atomic Structure,Hard,MCQ,2,Pure,0.85,Calculation-heavy,Radius of Bohr orbit
+,2008,Maths,30,Coordinate Geometry,41,3D Geometry,Medium,Numeric,2,Pure,0.8,Conceptual,Equation of a plane
+,2008,Maths,10,Calculus,42,Continuity and Differentiability,Hard,MCQ,3,Function,0.9,Tricky,Points of non-differentiability
+,2008,Maths,50,Vector Algebra,43,Scalar Product,Easy,MCQ,2,Pure,0.75,Formula-based,Angle between two vectors
+,2008,Physics,80,Electrodynamics,44,EMI and AC,Medium,MCQ,3,Electrodynamics,0.9,Calculation-heavy,Induced EMF
+,2008,Physics,110,Optics,45,Wave Optics,Hard,Numeric,2,Pure,0.8,Conceptual,Interference fringes
+,2009,Maths,20,Algebra,46,Binomial Theorem,Medium,MCQ,3,Pure,0.85,Calculation-heavy,General term
+,2009,Maths,10,Calculus,47,Area Under Curve,Hard,Numeric,2,Coordinate Geometry + Calculus,0.6,Graphical Reasoning,Area bounded by parabola and line
+,2009,Maths,40,Trigonometry,48,Properties of Triangle,Easy,MCQ,1,Pure,0.15,Formula-based,Sine Rule
+,2009,Physics,70,Mechanics,49,"Work, Energy, Power",Medium,MCQ,2,Mechanics,0.9,Conceptual,Conservation of energy
+,2009,Physics,100,Modern Physics,50,Nuclei,Hard,Numeric,3,Pure,0.8,Calculation-heavy,Radioactive decay
+,2010,Maths,20,Algebra,51,Permutations and Combinations,Medium,Numeric,3,Probability + Algebra,0.7,Tricky,Combinations with repetition
+,2010,Maths,10,Calculus,52,Integration,Hard,MCQ,2,Calculus,0.9,Conceptual,Properties of definite integrals
+,2010,Maths,30,Coordinate Geometry,53,Straight Lines,Easy,MCQ,2,Pure,0.75,Formula-based,Equation of a line
+,2010,Physics,80,Electrodynamics,54,Electrostatics,Medium,Numeric,3,Pure,0.9,Calculation-heavy,Electric field due to charge distribution
+,2010,Physics,70,Mechanics,55,Fluid Mechanics,Hard,MCQ,2,Mechanics,0.8,Conceptual,Bernoulli's principle
+,2011,Maths,20,Algebra,56,Complex Numbers,Medium,MCQ,2,Trigonometry,0.2,Formula-based,De Moivre's Theorem
+,2011,Maths,10,Calculus,57,Differential Equations,Hard,Numeric,3,Pure,0.9,Calculation-heavy,Linear differential equations
+,2011,Maths,50,Vector Algebra,58,Dot Product,Easy,Numeric,2,Coordinate Geometry + Vector Algebra,0.5,Conceptual,Projection of a vector
+,2011,Physics,70,Mechanics,59,Circular Motion,Medium,MCQ,3,Pure,0.85,Graphical Reasoning,Vertical circular motion
+,2011,Physics,90,Waves & Thermodynamics,60,Calorimetry,Hard,Numeric,2,Thermodynamics + Modern Physics,0.35,Conceptual,Phase change of substance
+,2012,Maths,30,Coordinate Geometry,61,Ellipse,Medium,Numeric,3,Pure,0.8,Conceptual,Eccentricity of ellipse
+,2012,Maths,10,Calculus,62,Continuity and Differentiability,Hard,MCQ,2,Function,0.9,Tricky,Mean Value Theorem
+,2012,Maths,60,Probability,63,Probability,Easy,MCQ,2,Algebra,0.65,Calculation-heavy,Probability with dice
+,2012,Physics,80,Electrodynamics,64,Current Electricity,Medium,MCQ,2,Pure,0.85,Calculation-heavy,Kirchhoff's rules
+,2012,Physics,110,Optics,65,Ray Optics,Hard,Numeric,3,Mechanics,0.7,Conceptual,Compound microscope
+,2013,Maths,20,Algebra,66,Quadratic Equations,Medium,MCQ,2,Algebra + Calculus,0.5,Conceptual,Common roots
+,2013,Maths,40,Trigonometry,67,Inverse Trigonometric Functions,Hard,Numeric,3,Calculus,0.4,Calculation-heavy,Principal values
+,2013,Maths,10,Calculus,68,Definite Integrals,Easy,Numeric,2,Pure,0.9,Formula-based,Integration by substitution
+,2013,Physics,70,Mechanics,69,Rotational Dynamics,Medium,Numeric,2,Mechanics,0.9,Conceptual,Conservation of angular momentum
+,2013,Physics,100,Modern Physics,70,Photoelectric Effect,Hard,MCQ,3,Pure,0.85,Calculation-heavy,De Broglie wavelength
+,2014,Maths,30,Coordinate Geometry,71,Hyperbola,Medium,MCQ,3,Pure,0.8,Conceptual,Tangent from external point
+,2014,Maths,10,Calculus,72,Limits,Hard,Numeric,2,Algebra,0.4,Calculation-heavy,Limits involving standard formulas
+,2014,Maths,50,Vector Algebra,73,Cross Product,Easy,MCQ,2,Coordinate Geometry + Vector Algebra,0.55,Formula-based,Area of a triangle
+,2014,Physics,80,Electrodynamics,74,Magnetic Effects of Current,Medium,Numeric,3,Pure,0.8,Calculation-heavy,Force between two wires
+,2014,Physics,90,Waves & Thermodynamics,75,Thermodynamics,Hard,MCQ,2,Mechanics,0.7,Conceptual,First law of thermodynamics
+,2015,Maths,20,Algebra,76,Matrices,Medium,MCQ,3,Pure,0.8,Calculation-heavy,Inverse of a matrix
+,2015,Maths,10,Calculus,77,Differential Equations,Hard,Numeric,2,Calculus,0.9,Tricky,Solving exact differential equations
+,2015,Maths,60,Probability,78,Probability,Easy,MCQ,2,Algebra,0.6,Formula-based,Total probability theorem
+,2015,Physics,70,Mechanics,79,"Work, Energy, Power",Medium,Numeric,2,Mechanics,0.9,Conceptual,Elastic collision
+,2015,Physics,80,Electrodynamics,80,EMI and AC,Hard,MCQ,3,Electrodynamics,0.95,Calculation-heavy,LCR circuit
+,2016,Maths,30,Coordinate Geometry,81,3D Geometry,Medium,Numeric,2,Pure,0.8,Conceptual,Shortest distance between skew lines
+,2016,Maths,10,Calculus,82,Area Under Curve,Hard,MCQ,3,Coordinate Geometry + Calculus,0.6,Graphical Reasoning,Area bounded by ellipse and line
+,2016,Maths,50,Vector Algebra,83,Dot Product,Easy,MCQ,2,Pure,0.7,Formula-based,Angle between planes
+,2016,Physics,70,Mechanics,84,Rotational Dynamics,Medium,MCQ,3,Mechanics,0.9,Calculation-heavy,Torque and angular acceleration
+,2016,Physics,100,Modern Physics,85,Atomic Structure,Hard,Numeric,2,Pure,0.85,Conceptual,Energy levels of Hydrogen atom
+,2017,Maths,20,Algebra,86,Binomial Theorem,Medium,MCQ,2,Pure,0.8,Calculation-heavy,Binomial coefficients
+,2017,Maths,10,Calculus,87,Continuity and Differentiability,Hard,Numeric,3,Function,0.9,Tricky,Checking differentiability at a point
+,2017,Maths,40,Trigonometry,88,Trigonometric Equations,Easy,MCQ,2,Algebra,0.25,Formula-based,General solution of trig equations
+,2017,Physics,80,Electrodynamics,89,Electrostatics,Medium,Numeric,2,Pure,0.85,Calculation-heavy,Electric potential
+,2017,Physics,70,Mechanics,90,Fluid Mechanics,Hard,MCQ,3,Mechanics,0.8,Conceptual,Archimedes' principle
+,2018,Maths,30,Coordinate Geometry,91,Parabola,Medium,MCQ,3,Pure,0.8,Conceptual,Equation of normal to parabola
+,2018,Maths,10,Calculus,92,Definite Integrals,Hard,Numeric,2,Calculus,0.9,Calculation-heavy,King's property
+,2018,Maths,60,Probability,93,Bayes' Theorem,Easy,MCQ,1,Algebra + Probability,0.65,Tricky,Conditional probability
+,2018,Physics,80,Electrodynamics,94,Current Electricity,Medium,Numeric,3,Pure,0.8,Calculation-heavy,Equivalent resistance
+,2018,Physics,110,Optics,95,Ray Optics,Hard,MCQ,2,Mechanics,0.7,Conceptual,Lens maker's formula
+,2019,Maths,20,Algebra,96,Permutations and Combinations,Medium,Numeric,2,Probability + Algebra,0.7,Calculation-heavy,Arrangement with constraints
+,2019,Maths,10,Calculus,97,Limits,Hard,MCQ,3,Algebra,0.4,Tricky,Limit involving series
+,2019,Maths,50,Vector Algebra,98,Triple Product,Easy,MCQ,2,Coordinate Geometry + Vector Algebra,0.5,Formula-based,Scalar Triple Product
+,2019,Physics,70,Mechanics,99,Gravitation,Medium,MCQ,2,Mechanics,0.9,Conceptual,Kepler's Laws
+,2019,Physics,100,Modern Physics,100,Nuclei,Hard,Numeric,3,Pure,0.85,Calculation-heavy,Binding energy
+,2020,Maths,20,Algebra,101,Matrices,Medium,MCQ,3,Pure,0.8,Calculation-heavy,System of linear equations
+,2020,Maths,10,Calculus,102,Differential Equations,Hard,Numeric,2,Calculus,0.9,Tricky,Homogeneous differential equations
+,2020,Maths,60,Probability,103,Probability,Easy,MCQ,2,Algebra,0.6,Formula-based,Independent events
+,2020,Physics,80,Electrodynamics,104,EMI and AC,Medium,Numeric,2,Electrodynamics,0.95,Conceptual,Motional EMF
+,2020,Physics,70,Mechanics,105,Rotational Dynamics,Hard,MCQ,3,Mechanics,0.9,Calculation-heavy,Conservation of angular momentum
+,2021,Maths,30,Coordinate Geometry,106,3D Geometry,Medium,MCQ,2,Pure,0.8,Conceptual,Vector equation of a line
+,2021,Maths,10,Calculus,107,Area Under Curve,Hard,Numeric,3,Coordinate Geometry + Calculus,0.6,Graphical Reasoning,Area bounded by sine curve
+,2021,Maths,20,Algebra,108,Complex Numbers,Easy,MCQ,2,Trigonometry,0.3,Formula-based,Roots of unity
+,2021,Physics,70,Mechanics,109,"Work, Energy, Power",Medium,Numeric,3,Mechanics,0.9,Calculation-heavy,Work done by a force
+,2021,Physics,110,Optics,110,Wave Optics,Hard,MCQ,2,Pure,0.85,Conceptual,Young's double slit experiment
+,2022,Maths,20,Algebra,111,Binomial Theorem,Medium,MCQ,3,Pure,0.8,Calculation-heavy,Sum of binomial coefficients
+,2022,Maths,10,Calculus,112,Continuity and Differentiability,Hard,Numeric,2,Function,0.9,Tricky,Chain rule
+,2022,Maths,40,Trigonometry,113,Inverse Trigonometric Functions,Easy,MCQ,2,Calculus,0.4,Formula-based,Derivative of inverse functions
+,2022,Physics,80,Electrodynamics,114,Electrostatics,Medium,Numeric,2,Pure,0.8,Calculation-heavy,Electric flux
+,2022,Physics,100,Modern Physics,115,Photoelectric Effect,Hard,MCQ,3,Pure,0.85,Conceptual,Stopping potential
+,2023,Maths,30,Coordinate Geometry,116,Hyperbola,Medium,Numeric,2,Pure,0.8,Conceptual,Equation of tangent at a point
+,2023,Maths,10,Calculus,117,Definite Integrals,Hard,MCQ,3,Calculus,0.9,Calculation-heavy,Properties of definite integrals
+,2023,Maths,60,Probability,118,Probability,Easy,Numeric,2,Algebra + Probability,0.7,Formula-based,Probability with cards
+,2023,Physics,70,Mechanics,119,Rotational Dynamics,Medium,MCQ,3,Mechanics,0.9,Conceptual,Angular momentum
+,2023,Physics,90,Waves & Thermodynamics,120,Thermodynamics,Hard,Numeric,2,Mechanics,0.75,Calculation-heavy,Work done in a cyclic process
+,2024,Maths,20,Algebra,121,Quadratic Equations,Medium,MCQ,3,Algebra + Calculus,0.5,Conceptual,Location of roots
+,2024,Maths,10,Calculus,122,Area Under Curve,Hard,Numeric,2,Coordinate Geometry + Calculus,0.6,Graphical Reasoning,Area bounded by cubic curve
+,2024,Maths,50,Vector Algebra,123,Dot Product,Easy,MCQ,2,Pure,0.7,Formula-based,Projection of a vector
+,2024,Physics,80,Electrodynamics,124,Current Electricity,Medium,Numeric,3,Pure,0.85,Calculation-heavy,Wheatstone bridge
+,2024,Physics,70,Mechanics,125,Fluid Mechanics,Hard,MCQ,2,Mechanics,0.8,Conceptual,Continuity equation
+,2025,Maths,30,Coordinate Geometry,126,Straight Lines,Medium,MCQ,2,Pure,0.75,Formula-based,Equation of a line
+,2025,Maths,10,Calculus,127,Differential Equations,Hard,Numeric,3,Calculus,0.9,Calculation-heavy,Solving Bernoulli's equation
+,2025,Maths,60,Probability,128,Bayes' Theorem,Easy,MCQ,1,Algebra + Probability,0.7,Tricky,Conditional probability
+,2025,Physics,70,Mechanics,129,Gravitation,Medium,Numeric,2,Mechanics,0.9,Conceptual,Escape velocity
+,2025,Physics,110,Optics,130,Ray Optics,Hard,MCQ,3,Pure,0.85,Calculation-heavy,Total internal reflection
